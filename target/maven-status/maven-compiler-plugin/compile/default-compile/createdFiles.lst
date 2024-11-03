@@ -1,0 +1,10 @@
+com\biblioteca\DAO\LivroDAO.class
+com\biblioteca\DAO\EmprestimoDAO.class
+com\biblioteca\model\Usuario.class
+com\biblioteca\model\Livro.class
+com\biblioteca\util\Conexao.class
+com\biblioteca\model\Emprestimo.class
+com\biblioteca\controller\LivroController.class
+com\biblioteca\DAO\UsuarioDAO.class
+com\biblioteca\controller\UsuarioController.class
+com\biblioteca\controller\EmprestimoController.class
